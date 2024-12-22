@@ -31,7 +31,7 @@ To run this project locally, follow these steps:
 2. **Install the required packages**:
 Make sure you have Python installed (preferably Python 3.7 or higher). Then, install the necessary libraries. The libraries are specified in the first cell in the notebook.
 
-Alternatively, you can install the packages directly:
+- Alternatively, you can install the packages directly:
 	```bash
 	pip install wikipedia-api langchain langchain-huggingface chromadb
 	```
